@@ -29,6 +29,8 @@ Intention: This label is employed to understand the purpose or message conveyed 
 
 Context: This label is used to establish the context within which these messages are situated, particularly as responses in a conversation. It provides insights into the surrounding circumstances and helps in better understanding the comments.
 
+Moreover, this resource incorporates annotations contributed by three annotators, facilitating the adoption of computational methodologies aligned with the emerging perspectivist trend in machine learning. Each tab within every file corresponds to the annotations provided by an individual annotator.
+
 2) FORMAT
 
 Instances are included in CSV format as follows:
