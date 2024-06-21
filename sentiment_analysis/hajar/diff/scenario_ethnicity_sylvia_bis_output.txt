@@ -1,0 +1,202 @@
+NAME,TEXT,ROLE,SENTIMENT
+<Pierre-Soutien-Harceleur>,ça lui fera de l'argent pour une fois qu'elle en aura,bully_support,NEG
+<Fatima-Victime>,bande de jaloux,victim,NEG
+<Nicolas-Soutien-Harceleur>,tu montre ton cu tassume,bully_support,NEG
+<Teresa-Soutien-Victime>,bh elle va aller porter plainte,victim_support,NEU
+<Fatima-Victime>,tkt jai pas besoin de ton argent,victim,NEG
+<Pierre-Soutien-Harceleur>,c'est pas dans son pays qu'elle en aura :') :'),bully_support,NEG
+<Pauline-Harceleur>,c dieu qui donne mon bebew,bully,NEU
+<Pierre-Soutien-Harceleur>,elle ira pas porter plainte,bully_support,NEG
+<Fatima-Victime>,cmt tu sais ?,victim,NEU
+<Nicolas-Soutien-Harceleur>,ben va porter plainte,bully_support,NEG
+<Teresa-Soutien-Victime>,exactement,victim_support,NEU
+<Nicolas-Soutien-Harceleur>,on verra a la sorti,bully_support,NEG
+<Teresa-Soutien-Victime>,mdr,victim_support,NEU
+<Nicolas-Soutien-Harceleur>,kestu crois,bully_support,NEU
+<Teresa-Soutien-Victime>,lol,victim_support,NEU
+<Pierre-Soutien-Harceleur>,tkt je l'attendrais devant chez elle,bully_support,NEG
+<Teresa-Soutien-Victime>,tu vas faire quoi,victim_support,NEU
+<Théo-Conciliateur>,y aura rien a la sorti,conciliator,NEU
+<Pierre-Soutien-Harceleur>,je vais bien continuier avce pauline pour diffuser,bully_support,NEG
+<Nicolas-Soutien-Harceleur>,interogatoir 2 heures et glaces a la plages apres,bully_support,NEG
+<Fatima-Victime>,ils saven que parlé,victim,NEU
+<Pauline-Harceleur>,theo on va te meler aussi,bully,NEG
+<Pierre-Soutien-Harceleur>,on va venir à plusieurs,bully_support,NEG
+<Fatima-Victime>,derrière leur ecran la,victim,NEU
+<Nicolas-Soutien-Harceleur>,et ta guele part terre ensuite,bully_support,NEG
+<Teresa-Soutien-Victime>,tkktt on t'attendra a 2 on te ntm,victim_support,NEG
+<Pierre-Soutien-Harceleur>,tkt pas en face je vais te montrer mon petit bijoux,bully_support,NEG
+<Pauline-Harceleur>,tu nique personne,bully,NEG
+<Teresa-Soutien-Victime>,tu crois on a peur de toi t degun redesend,victim_support,NEG
+<Pauline-Harceleur>,mere teresa tg,bully,NEG
+<Pierre-Soutien-Harceleur>,avec d'autres qui n'aiment pas les arabes comme toi,bully_support,NEG
+<Nicolas-Soutien-Harceleur>,tu nike ta mere plutot et encore,bully_support,NEG
+<Fatima-Victime>,il est tlmt ptit qu on verra rien tkt terasa,victim,NEG
+<Nicolas-Soutien-Harceleur>,si quelqu un te veux,bully_support,NEG
+<Théo-Conciliateur>,bon euh vs avez fini de parler pour rien ?,conciliator,NEU
+<Pierre-Soutien-Harceleur>,ooooh theresa tu me chauffes tu veux le meme sort?,bully_support,NEG
+<Nicolas-Soutien-Harceleur>,ta 12 ans tu fait la grande ta pote et a pooile sur la plage et se plaint apres,bully_support,NEG
+<Pierre-Soutien-Harceleur>,theo arrete de defendre vrm on dirait que t'es pas francais,bully_support,NEG
+<Pauline-Harceleur>,appelez carla elle va faire la sorcellerie jai des contacts,bully,NEU
+<Fatima-Victime>,mai a poil de koi,victim,NEU
+<Teresa-Soutien-Victime>,mais oui il fait le beau parceque t'es une gadjis mais devant un mec il ferra rien,victim_support,NEG
+<Pauline-Harceleur>,tg toi,bully,NEG
+<Fatima-Victime>,la pauline on voyait son cul et elle vient m harceler apres la,victim,NEG
+<Nicolas-Soutien-Harceleur>,apel plutot anaé,bully_support,NEU
+<Pauline-Harceleur>,j'en ai un moi au moins,bully,NEG
+<Pierre-Soutien-Harceleur>,en attendant elle elle avait le droit,bully_support,NEG
+<Nicolas-Soutien-Harceleur>,ily aura que elle qui va te repondre mdr,bully_support,NEU
+<Teresa-Soutien-Victime>,oe ta raison c la plus grosse des pute,victim_support,NEG
+<Pierre-Soutien-Harceleur>,parce qu'elle elle est dans son pays,bully_support,NEG
+<Teresa-Soutien-Victime>,hein pauline,victim_support,NEU
+<Pauline-Harceleur>,teresa ftg va a l'eglise,bully,NEG
+<Fatima-Victime>,ba va y on y va ensemble,victim,NEU
+<Pierre-Soutien-Harceleur>,ça t'éduqueras un peu,bully_support,NEG
+<Teresa-Soutien-Victime>,tu devrais faire pareil,victim_support,NEU
+<Fatima-Victime>,j sui sur t es jamais allé a leglise hypocrite,victim,NEG
+<Nicolas-Soutien-Harceleur>,on te brule toi a leglise,bully_support,NEG
+<Théo-Conciliateur>,"mais vs en avez pas marre, vs voulez pas vs re parler et mettre les choses a plat ?",conciliator,NEG
+<Teresa-Soutien-Victime>,oe grave tu parles,victim_support,NEG
+<Pauline-Harceleur>,theo tu sers a rien,bully,POS
+<Pierre-Soutien-Harceleur>,fatima arrete la mascarade on sait que toi t'es un autre delire toi tu fais la manche devant frr,bully_support,NEG
+<Fatima-Victime>,j prefere faire la manche que la pute comme ta mere,victim,NEG
+<Teresa-Soutien-Victime>,c a eux d'arreter d'harceler les gens,victim_support,NEU
+<Théo-Conciliateur>,si je sert a regler vos problemes de merde,conciliator,NEU
+<Nicolas-Soutien-Harceleur>,la prochaine fois tu mettra un voile comme t es parents au lieu de nous faire cvhier,bully_support,NEG
+<Pierre-Soutien-Harceleur>,fatima arrete de faire la folle tu vas vrm le payer,bully_support,NEG
+<Nicolas-Soutien-Harceleur>,sa sort des cour sa mes le voile mais a la plage sa montre son cu ptdrrrrrr,bully_support,NEG
+<Pauline-Harceleur>,mddddddr,bully,NEU
+<Pierre-Soutien-Harceleur>,on va faire des montages tu as te retrouver à poil sur internet ptddrrrr,bully_support,NEG
+<Théo-Conciliateur>,nicolas tu vas trop loin la,conciliator,NEU
+<Fatima-Victime>,tkt tu vas retrouver en prison,victim,NEU
+<Pauline-Harceleur>,theo ftg,bully,NEG
+<Teresa-Soutien-Victime>,faites de toute facon on n'a toute les preuves,victim_support,NEU
+<Pierre-Soutien-Harceleur>,rooohh theo c'est toi la,bully_support,NEU
+<Teresa-Soutien-Victime>,elle va porter plainte,victim_support,NEU
+<Théo-Conciliateur>,quelle preuves ?,conciliator,NEU
+<Teresa-Soutien-Victime>,tampis pour vous,victim_support,NEU
+<Nicolas-Soutien-Harceleur>,tg theo la veriter blaisse tu te sens mal,bully_support,NEG
+<Pauline-Harceleur>,tg toi,bully,NEG
+<Fatima-Victime>,on a les screen,victim,NEU
+<Pierre-Soutien-Harceleur>,teresa les preuves disparaissent comme fatima va disparaitre,bully_support,NEG
+<Teresa-Soutien-Victime>,t'es entrain de parler cave,victim_support,NEG
+<Pauline-Harceleur>,nous aussi les screen quan tu montre ton cu,bully,NEG
+<Teresa-Soutien-Victime>,depuis talleur tu l'insulte tu parle de montage,victim_support,NEU
+<Nicolas-Soutien-Harceleur>,mes les toi ou je pense tes screen,bully_support,POS
+<Pierre-Soutien-Harceleur>,et alors? je peux tjrs nier,bully_support,NEU
+<Teresa-Soutien-Victime>,oui tktt chez la police,victim_support,NEU
+<Pierre-Soutien-Harceleur>,rien prouve que c'est moi ;D,bully_support,NEU
+<Fatima-Victime>,tu crois ils vont te croire,victim,NEU
+<Teresa-Soutien-Victime>,continuer de faire les malins,victim_support,NEU
+<Fatima-Victime>,y a ton nom,victim,NEU
+<Teresa-Soutien-Victime>,si si,victim_support,NEU
+<Nicolas-Soutien-Harceleur>,va chez la police on tenmene meme si tu veux,bully_support,NEG
+<Pierre-Soutien-Harceleur>,teresa je vais pas le répeter tu n'y iras pas chez la police,bully_support,NEG
+<Pauline-Harceleur>,on t'accompagne porter plainte stuveu,bully,NEG
+<Teresa-Soutien-Victime>,pas de soucis viens,victim_support,NEU
+<Nicolas-Soutien-Harceleur>,pour 3 messages qui represente la veriter,bully_support,NEU
+<Teresa-Soutien-Victime>,sa sera plus rapide,victim_support,NEU
+<Nicolas-Soutien-Harceleur>,a notre age une amande *et cest regles,bully_support,NEU
+<Teresa-Soutien-Victime>,alors nn,victim_support,NEU
+<Théo-Conciliateur>,mais cest ridicule,conciliator,NEU
+<Nicolas-Soutien-Harceleur>,donc chute merci,bully_support,NEG
+<Teresa-Soutien-Victime>,sa a bcp evolué depuis,victim_support,NEU
+<Nicolas-Soutien-Harceleur>,ah et tu croit quoi,bully_support,NEU
+<Pierre-Soutien-Harceleur>,on va s'en sortir triomphant on va expulser tous les arabes comme toi,bully_support,NEG
+<Théo-Conciliateur>,regler vos problemes comme des adultes au lieu de parler pour rien la,conciliator,POS
+<Nicolas-Soutien-Harceleur>,c la prison pour 4 message,bully_support,NEU
+<Pauline-Harceleur>,bon fatima retournes chez tamr pleurer,bully,NEG
+<Pierre-Soutien-Harceleur>,theo ftg vrm tu sers à r,bully_support,NEG
+<Teresa-Soutien-Victime>,t tellement peu cultiver que t meme pas au courant des consequences de sque tu fais,victim_support,NEG
+<Nicolas-Soutien-Harceleur>,quand t es meme pas majeurs*,bully_support,NEU
+<Pauline-Harceleur>,avec ton accent la,bully,POS
+<Pierre-Soutien-Harceleur>,la vie t'es explosé la tu peux gérer degun,bully_support,NEG
+<Fatima-Victime>,jvais me suicider tu vas voir si vous allez rien avoir,victim,NEG
+<Pauline-Harceleur>,enfin,bully,NEG
+<Nicolas-Soutien-Harceleur>,ecrit francais et tu viendra me parler culture' mdrr,bully_support,NEG
+<Pierre-Soutien-Harceleur>,teresa tu parles de culture mais chez toi y'a même pas accès à l'eau alors à l'ecole........ et ça se fait ressentir,bully_support,NEG
+<Nicolas-Soutien-Harceleur>,voila sucide toi donc teresa ta bien ouvert ta guele pour rien,bully_support,NEG
+<Pierre-Soutien-Harceleur>,crève,bully_support,NEG
+<Fatima-Victime>,vous irez en efer enfer*,victim,NEG
+<Pierre-Soutien-Harceleur>,les blancs vont pas en enfer,bully_support,NEG
+<Théo-Conciliateur>,vs etes serieux ? vs aimerais quon vs dises sa ?,conciliator,NEU
+<Pierre-Soutien-Harceleur>,on est purs nous,bully_support,NEG
+<Teresa-Soutien-Victime>,oe pure merde,victim_support,NEG
+<Pierre-Soutien-Harceleur>,de la même couleur ça vous fait un point commun,bully_support,NEG
+<Nicolas-Soutien-Harceleur>,wouah le niveauxxxxxxx,bully_support,NEG
+<Pierre-Soutien-Harceleur>,y'a l'odeur aussi,bully_support,NEG
+<Pauline-Harceleur>,avec vos habits du bled la cassez vous,bully,NEG
+<Nicolas-Soutien-Harceleur>,mdrr c clair l odeur infecte,bully_support,NEG
+<Teresa-Soutien-Victime>,oo tg pierre me fais pas chier jmen blc de ta vie franchement,victim_support,NEG
+<Pauline-Harceleur>,teresa parle bien ftg,bully,NEG
+<Pierre-Soutien-Harceleur>,teresa fais comme fatima ferme la,bully_support,NEG
+<Nicolas-Soutien-Harceleur>,alors pk tu lui envoy un message si tu ten fou bien dit,bully_support,NEU
+<Teresa-Soutien-Victime>,pauline et pierre 2 grosses merdes qui parlent,victim_support,NEG
+<Nicolas-Soutien-Harceleur>,bon la phto va etres poster,bully_support,NEG
+<Pauline-Harceleur>,grv teresa t autant inutile que Mbendib,bully,NEG
+<Nicolas-Soutien-Harceleur>,quand,bully_support,NEU
+<Fatima-Victime>,quand tu fermeras ta gueule,victim,NEG
+<Teresa-Soutien-Victime>,poste la,victim_support,NEU
+<Nicolas-Soutien-Harceleur>,plus une troisieme teresa,bully_support,NEG
+<Pierre-Soutien-Harceleur>,oyé tous repostez en story les photos de la negre,bully_support,NEG
+<Nicolas-Soutien-Harceleur>,,bully_support,NEU
+<Teresa-Soutien-Victime>,et tu venira en prison,victim_support,NEU
+<Pierre-Soutien-Harceleur>,on va bien se marrer,bully_support,NEG
+<Teresa-Soutien-Victime>,tu vas rien comprendre,victim_support,NEU
+<Nicolas-Soutien-Harceleur>,parle pas de prison quand tu coco pas mdrrr,bully_support,NEG
+<Pierre-Soutien-Harceleur>,demain on imprime on affiche?,bully_support,NEG
+<Pauline-Harceleur>,fatima t une grosse pute a part envoyez des nudes tu f rien,bully,NEG
+<Nicolas-Soutien-Harceleur>,si on a compris tkt,bully_support,NEU
+<Teresa-Soutien-Victime>,mais mdrr pauline elle a tourné dans toute la france,victim_support,NEG
+<Nicolas-Soutien-Harceleur>,mdrrr,bully_support,NEU
+<Pauline-Harceleur>,normal j'suis une star,bully,NEU
+<Pierre-Soutien-Harceleur>,sa chatte aussi,bully_support,NEG
+<Théo-Conciliateur>,bon cest bon vs tourner en rond la depuis taleur,conciliator,NEG
+<Pierre-Soutien-Harceleur>,pour avoir les papiers,bully_support,POS
+<Teresa-Soutien-Victime>,et elle ose ouvrir sa bouche de suceuse,victim_support,NEG
+<Pierre-Soutien-Harceleur>,sa mère aussi,bully_support,NEG
+<Fatima-Victime>,t trop jalouse qu aucun mec te trouves belle,victim,NEG
+<Théo-Conciliateur>,a part insulter vs faites rien d'autres,conciliator,NEU
+<Nicolas-Soutien-Harceleur>,"c, mdrr elle t belle $*",bully_support,NEG
+<Teresa-Soutien-Victime>,oe grave il l'utilise c tout,victim_support,POS
+<Nicolas-Soutien-Harceleur>,toi eclater apr contre,bully_support,NEG
+<Fatima-Victime>,tu sais parler nicolas ? mdr,victim,NEG
+<Nicolas-Soutien-Harceleur>,nan pas le time bb,bully_support,NEG
+<Fatima-Victime>,apres cest moi qu est pas française,victim,NEU
+<Teresa-Soutien-Victime>,comme une prostitué qu'elle fait bien mdrr,victim_support,NEG
+<Nicolas-Soutien-Harceleur>,pour toi c sa et pas plus,bully_support,NEG
+<Théo-Conciliateur>,vos geule,conciliator,NEG
+<Fatima-Victime>,vas apprendre la langue de ton pays déjà,victim,NEG
+<Pierre-Soutien-Harceleur>,ptdr maiis fatima t'as vu ton orthographe,bully_support,NEG
+<Pauline-Harceleur>,t dans notre pays et tu parle,bully,NEG
+<Pierre-Soutien-Harceleur>,parle pas,bully_support,NEG
+<Nicolas-Soutien-Harceleur>,elle insulte sa pote mtn,bully_support,NEU
+<Théo-Conciliateur>,vous etes des gros gamins,conciliator,NEG
+<Pierre-Soutien-Harceleur>,non patriotes,bully_support,NEG
+<Nicolas-Soutien-Harceleur>,moi c mon pays o moinh,bully_support,NEG
+<Pierre-Soutien-Harceleur>,et tout le monde devrait etre comme ça,bully_support,NEG
+<Nicolas-Soutien-Harceleur>,donc je me premer cque je veux par apport atoi,bully_support,NEU
+<Teresa-Soutien-Victime>,ooo nicolas tg,victim_support,NEG
+<Nicolas-Soutien-Harceleur>,bisoussssssssssssssssssssssssssss,bully_support,NEU
+<Pauline-Harceleur>,bon fatima on va te ntm tkt,bully,NEG
+<Fatima-Victime>,ca veut rien dire ta phrase,victim,NEU
+<Pierre-Soutien-Harceleur>,tu peux pas savoir fat fat,bully_support,NEG
+<Teresa-Soutien-Victime>,bref bisous de nous les jaloux,victim_support,NEG
+<Pierre-Soutien-Harceleur>,meme ton soutien se casse t'es seule,bully_support,NEG
+<Pauline-Harceleur>,javoue tu sais pas tu parle meme pas francais,bully,NEG
+<Théo-Conciliateur>,bon vs voulez pas vs reconcilier jy peut rien,conciliator,POS
+<Pierre-Soutien-Harceleur>,et nous on te démarre,bully_support,NEG
+<Théo-Conciliateur>,ciao ciao,conciliator,NEU
+<Pierre-Soutien-Harceleur>,mdrrrrr theo qui abandonne,bully_support,NEU
+<Fatima-Victime>,vas y ciao les ploucs,victim,NEG
+<Pierre-Soutien-Harceleur>,"tkt t'auras son cul quand meme vu comment elle l'expose ""les ploucs"" mdrrrrrrrrrrrrrrrr",bully_support,NEG
+<Fatima-Victime>,retournez dans votre ferme traire vos meres,victim,NEG
+<Pauline-Harceleur>,si l'unitilité etait une personne,bully,NEG
+<Teresa-Soutien-Victime>,moi et fatima on n'a pas votre time dsl,victim_support,NEU
+<Pierre-Soutien-Harceleur>,t'as cru t'as dead ça?,bully_support,NEU
+<Teresa-Soutien-Victime>,oe exactement,victim_support,NEU
+<Pierre-Soutien-Harceleur>,ptdrrrr punshline éclatées cousine oula non pas cousine esclave,bully_support,NEG
+<Teresa-Soutien-Victime>,<3,victim_support,NEU
+<Pierre-Soutien-Harceleur>,comme au bon vieux temps,bully_support,NEG
+<Pauline-Harceleur>,elle c cru sur skyrock la :b,bully,NEG
+<Teresa-Soutien-Victime>,tete qu'elle a parle ps avk moi grosse pute,victim_support,NEG

@@ -1,0 +1,89 @@
+NAME,TEXT,ROLE,SENTIMENT
+<Fran_Victime>,Yo miiiiiiiiiiiiiiiiiiiiiiiiiiiich,victim,NEU
+<Fran_Victime>,fatiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii,victim,NEU
+<martine_harc>,Salut les cons!,bully,NEG
+<Fran_Victime>,C toi ki parl,victim,NEG
+<Fran_Victime>,mais vazi srx,victim,NEU
+<Fran_Victime>,d'où t'as été mettre mes fotos tepu va,victim,NEG
+<martine_harc>,hey! tu m'parle autrement la grosse!,bully,NEG
+<Fran_Victime>,t kune pute,victim,NEG
+<Fatima_Defenseur>,tfk jenny,victim_support,NEU
+<martine_harc>,et bah quoi T pas contente? m'en fout,bully,NEG
+<Fran_Victime>,pq tu postes des fotos de mwa à poil wsh,victim,NEG
+<Fran_Victime>,ta pas dvi?,victim,NEG
+<Fatima_Defenseur>,att c qui qui poste des photos de ki a poil,victim_support,NEU
+<Fran_Victime>,c'est cette put de Martine qui a pris des fotos de moi,victim,NEG
+<Fran_Victime>,pdt le voyage,victim,NEU
+<Fran_Victime>,sous la douche,victim,NEU
+<Fran_Victime>,et cette conne elle l'a fait tourner,victim,NEG
+<Fatima_Defenseur>,pk tu fais ca meuf,victim_support,NEU
+<Fatima_Defenseur>,dou elle etait dans ta douche,victim_support,NEU
+<martine_harc>,hey quand y a une pute faut faire profiter!,bully,NEG
+<martine_harc>,soit contente la grosse,bully,NEG
+<Fran_Victime>,je sais pas elle aime mon cul,victim,NEU
+<jules_soutienH>,sale grosse,bully_support,NEG
+<martine_harc>,hey! slt Juju!,bully,NEU
+<jenny_conciliatr>,martine et francoise si vous avez des problemes parlez en au lieu de vous insulter,conciliator,POS
+<Fran_Victime>,mais d'où tu parles le micropenis stp,victim,NEG
+<martine_harc>,et pour aimer ton cul faurdrait etre aveugle la grosse,bully,NEG
+<Fatima_Defenseur>,on se calmmmmmm,victim_support,POS
+<Fran_Victime>,pq tu me mattes sous la douche alors?,victim,NEU
+<martine_harc>,hey la sirienne,bully,NEG
+<martine_harc>,ferme la,bully,NEG
+<Fran_Victime>,ho tu te calmes,victim,NEG
+<Fran_Victime>,la pute,victim,NEG
+<Fran_Victime>,Tu touches pas à ma pote ou je te mange ok?!,victim,NEG
+<jenny_conciliatr>,parlez en pardon,conciliator,POS
+<martine_harc>,c toi la pute et tu m parle pas comme ca,bully,NEG
+<jules_soutienH>,ferme ta gueule demande a ta mere il est pas si petit,bully_support,NEG
+<Fatima_Defenseur>,t raciste ou ca se passe comment en fait martine,victim_support,NEU
+<jenny_conciliatr>,on ne resoud rien comme ca,conciliator,POS
+<Fran_Victime>,ma mère elle suce pas les bébés,victim,NEG
+<martine_harc>,bah quoi? l'étrangère a un pb?,bully,NEG
+<jules_soutienH>,ducoup elle me suce,bully_support,NEG
+<jules_soutienH>,cette folle,bully_support,NEG
+<martine_harc>,T'a raison ils voudraizetn pas d'elle,bully,NEG
+<Fran_Victime>,parle pas sur ma mère,victim,NEG
+<jules_soutienH>,GROSSE folle,bully_support,NEG
+<Fran_Victime>,toi aussi je te mange,victim,NEG
+<jules_soutienH>,hahahahahahahahahahahahaha,bully_support,NEG
+<jules_soutienH>,t une comique toi,bully_support,NEG
+<martine_harc>,bah la mere d'une grosse moche doit etre grosse moche,bully,NEG
+<Fatima_Defenseur>,stop bande de fous,victim_support,NEG
+<Fran_Victime>,en attendant il a l'air de kiffer ma mère Jules...,victim,NEU
+<Fatima_Defenseur>,kes tu dis,victim_support,NEU
+<jules_soutienH>,jmange ta mere surtout,bully_support,NEG
+<jules_soutienH>,cest elle qui me kiffe,bully_support,NEG
+<martine_harc>,hey toi tut'la ferme l'étrazngère! retourne dans ton pays de merde,bully,NEG
+<Fatima_Defenseur>,on arrete de manger tt le mponde la,victim_support,POS
+<Fran_Victime>,Martine tu fermes ta bouche,victim,NEG
+<martine_harc>,bah c sa mere qui se met a 4 pattes devant luji,bully,NEG
+<Fatima_Defenseur>,va crevrr,victim_support,NEG
+<Fran_Victime>,donc il kif les grosses moches,victim,NEG
+<Fran_Victime>,sympa pour ton pote,victim,NEG
+<jules_soutienH>,oue ca doit etre ca,bully_support,NEU
+<jules_soutienH>,jore ton pere le chauve,bully_support,NEG
+<Fran_Victime>,tu voulais voir mon cul du coup Jules,victim,NEU
+<martine_harc>,d'ou tu me parle? faudrait deja que tu perde 100 kg avant de me donner des ordres la grosse,bully,NEG
+<Fran_Victime>,Je te casse la bouche tu parleras plus jamais,victim,NEG
+<martine_harc>,Juju est triop bien pour ton cul de vache!,bully,NEG
+<Fatima_Defenseur>,tinsulte pas mon pays connasse,victim_support,NEG
+<martine_harc>,ouais c ca la pute,bully,NEG
+<jenny_conciliatr>,MARTINE,conciliator,NEU
+<martine_harc>,les pute,bully,NEG
+<Fran_Victime>,MARTINE,victim,NEU
+<jenny_conciliatr>,Je v vs boter le cul,conciliator,NEG
+<martine_harc>,et on s'en fout de toi Jenny! retourne dormir,bully,NEG
+<Fatima_Defenseur>,putain je pars la,victim_support,NEU
+<jenny_conciliatr>,vous allez vous calmer oui,conciliator,POS
+<Fatima_Defenseur>,jen ai mar de vous,victim_support,NEG
+<martine_harc>,ouais c ca fuyiez les putes,bully,NEG
+<Fran_Victime>,Martine tu me fais gerber,victim,NEG
+<Fatima_Defenseur>,martine la connasse,victim_support,NEG
+<Fatima_Defenseur>,jte parle mm pas,victim_support,NEG
+<jenny_conciliatr>,vs vs comportez vrmt trtop mals,conciliator,POS
+<Fran_Victime>,tu as bien aimé mes photos?,victim,NEU
+<martine_harc>,c ca allez ciao les gosses putes,bully,NEG
+<martine_harc>,dsl mais trop moches,bully,NEG
+<Fran_Victime>,fallait pâs poster des fotos de moi si tu voulais que je me calme,victim,NEG
+<martine_harc>,g eu mal aux yeux,bully,NEG

@@ -1,0 +1,157 @@
+NAME,TEXT,ROLE,SENTIMENT
+Lea,Bonjour !,victim_support,NEU
+Lea,"Léo et Guillaume, faut qu'on parle.",victim_support,NEU
+amine66,wsh,conciliator,NEU
+Lea,Vous pensez que votre comportement est acceptable ?,victim_support,NEG
+Isabelle3,oula,bully_support,NEU
+Leo69,ca gaz les gars?,bully,NEG
+amine66,ça dit quoi,conciliator,NEU
+Leo69,feur,bully,NEU
+Isabelle3,mais vsy toi ftg,bully_support,NEG
+Justine,"Lea, heureusement que tu es la J'en peut plus",victim,NEU
+Lea,Faut bien ma belle,victim_support,POS
+Leo69,tg,bully,NEG
+Lea,Tais-toi toi,victim_support,NEG
+Isabelle3,c’est bon arrête un peu de faire l’assistante sociale on s’en blc,bully_support,NEG
+amine66,les gens faites l’amour pas la paix,conciliator,POS
+Lea,Vous vous croyez intelligents avec vos remarques à la con,victim_support,NEG
+Justine,Leo et Guillaume sont insupportables HAAHAHHA Amine a bien raison,victim,NEG
+Aurelie,justine pas trop gazer ca va ?,bully_support,NEG
+Leo69,hahahahah,bully,NEG
+Isabelle3,faut aller prendre la douche,bully_support,NEG
+Lea,"Et allez, c'est bon, bande de sous-merdes à insulter les juifs alors que vous valez rien",victim_support,NEG
+Isabelle3,juif,bully_support,NEG
+Lea,Sérieux les gars remettez-vous en question,victim_support,NEG
+Aurelie,rammasse les cendre de ta famille tais toi,bully_support,NEG
+Leo69,amine va te faire PTDRRR,bully,NEG
+Isabelle3,PTDRRRR,bully_support,NEU
+Justine,"Isabelle, quel est ton problème avec la photo de mon frere ??!",victim,NEU
+Guillaume,beurk une juif,bully,NEG
+Isabelle3,il est juif quoi,bully_support,NEG
+Leo69,nique les juifs,bully,NEG
+Isabelle3,toi aussi dcp pas fou,bully_support,NEG
+Lea,"Votre dignité est inexistante. Vous vous prenez pour les maîtres du monde en insultant des minorités, mais ça ne montre que votre puérilité totale.",victim_support,NEG
+Isabelle3,après il est mignon hein mais faudrait penser à changer de religion mskn,bully_support,NEG
+Guillaume,ouais c'est repoussant les juifs,bully,NEG
+Lea,À un moment faut la fermer,victim_support,NEG
+Isabelle3,ok meuf justine est pas capable de gérer tt seule ou quoi,bully_support,NEG
+Lea,Votre daronne elle serait pas fière de vous honnêtement,victim_support,NEG
+amine66,laissez la trkl,conciliator,NEG
+Isabelle3,elle est morte,bully_support,NEG
+Lea,Parce que vous êtes à deux sur elle,victim_support,NEG
+Leo69,laisses ma mere trql toi,bully,NEG
+Leo69,on va se battre,bully,NEG
+Aurelie,dit tg,bully_support,NEG
+Justine,Mais pourquoi autant de discussion sur cette photo?!,victim,NEU
+Guillaume,fait des nudes plutôt que des photos de ta religion,bully,NEG
+Justine,N'avez vous rien a faire dans la vie?,victim,NEG
+amine66,guillaume calme toi,conciliator,NEU
+Isabelle3,on est 17e siècle ou quoi parle normal cousine,bully_support,NEG
+Lea,Vous savez qu'insulter et cracher votre venin à tout va,victim_support,NEG
+Justine,C’etait juste un moment heureux en famille,victim,NEU
+Guillaume,non,bully,NEG
+Lea,"Réel, foutez-lui la paix",victim_support,POS
+Justine,"Guillaume, non quoi?",victim,NEU
+Leo69,beurk tu kiff les juifs amine,bully,NEG
+Guillaume,la paix je connais pas,bully,NEU
+amine66,AURELIE FAIS GAFFE À TOI,conciliator,NEG
+Isabelle3,amine wsh??,bully_support,NEU
+Guillaume,je suis ukrainien,bully,NEU
+Justine,Tu dois te calmer Guillaume Je m'en fiche,victim,POS
+Isabelle3,bah ukrainien c pas une religion,bully_support,NEU
+Lea,@Justine je suis avec toi quoi qu'ils disent,victim_support,POS
+Leo69,lea la suceuse,bully,NEG
+Isabelle3,waaa solidarité alv alm sayer,bully_support,NEG
+Guillaume,ouais balek,bully,NEG
+Lea,Ces remarques ne sont aucunement tolérables,victim_support,NEG
+Isabelle3,on est pas dans les bisounours,bully_support,NEG
+Aurelie,tg va manger du porc,bully_support,NEG
+amine66,arrêtez avec les religions,conciliator,NEU
+Guillaume,dans la photo de Justine il y a Zemmour,bully,NEG
+Lea,Mdrrr au moins j'ai des rapports sexuels connard,victim_support,NEG
+Isabelle3,oulaaa,bully_support,NEU
+Leo69,sale pute,bully,NEG
+Isabelle3,on part sur des sujets explicites je suis pas dans ça ici y’a des oukhty,bully_support,NEU
+Lea,C'est bon vos conneries me saoulent,victim_support,NEG
+Guillaume,le porc c toi AUR2LIE,bully,NEG
+Aurelie,sal cochone,bully_support,NEG
+amine66,laissez les trkl,conciliator,NEG
+Isabelle3,c pas psq t’as des rapports séxuels que faut s’en vanter,bully_support,NEU
+Guillaume,on dit une truie,bully,NEG
+Lea,"Vos blagues montrent un cruel manque de finesse et de raisonnement logique. Suceuse ou bon, vous devriez arrêter vos comportements puérils.",victim_support,NEG
+Justine,Il n'y a pas Zeimmour,victim,NEU
+Justine,J'ai juste posté une photo c'est tout c'est une discussion complètement inutile,victim,NEU
+Lea,Justine a le droit de faire une photo de sa Bar-Mitzvah non ? Exactement.,victim_support,NEG
+amine66,oui,conciliator,NEU
+Leo69,evites on s en blc de ton truc de feuj jvais appeller hitler,bully,NEG
+Aurelie,c toi t inutile,bully_support,NEG
+amine66,ayaaaaa,conciliator,NEU
+Guillaume,j'ai la phobie des photos juives,bully,NEG
+Isabelle3,ish ish c’est chaud,bully_support,NEG
+Aurelie,jsui juivofobe,bully_support,NEG
+Leo69,dommage qu il soit mort avant de finir son travail,bully,NEG
+Lea,Vous ne connaissez que des personnalités antisémites dis donc,victim_support,NEG
+Guillaume,hitler il est dans ton cul,bully,NEG
+Lea,Ça montre bien que vous n'êtes qu'un ramassis fécal dégénéré pour vous en prendre à Justine,victim_support,NEG
+Aurelie,comme les cendre a ta mere,bully_support,NEG
+Isabelle3,bref justine arrête de poster des trucs comme ça aussi tu t’affiches,bully_support,NEG
+Guillaume,hitler je le suce,bully,NEG
+Lea,C'est vous qui vous vous affichez avec votre haine plus qu'autre chose,victim_support,NEG
+Lea,Ayez honte.,victim_support,NEG
+Guillaume,Justine ça te dit un date dans les chambres à gaz,bully,NEG
+Justine,"ah non Guillome, les blagues sur Hitler je ne les supporte pas",victim,NEG
+amine66,aurelie fais gaffe à toi🔪,conciliator,NEG
+Justine,T’exager,victim,NEG
+Aurelie,trop fort guigui,bully_support,NEG
+Lea,Putain on a atteint le point Godwin 3 fois tellement vous recyclez vos insultes,victim_support,NEG
+Leo69,PTDRRR t trop drole guillaume,bully,NEG
+Isabelle3,justine c’est grave drole t’abuse,bully_support,NEG
+Lea,Là c'est abusé Isabelle,victim_support,NEG
+Guillaume,merci Leo,bully,POS
+Isabelle3,bah toi t pas meilleure que nous t’arrête pas de dire la mm chose salope ba,bully_support,NEG
+Justine,En 2022 on parle encore de gaser les juifs c'est fou ca,victim,NEU
+Guillaume,oui,bully,NEU
+Isabelle3,c avec un z,bully_support,NEU
+amine66,c’est aberrant,conciliator,NEG
+Isabelle3,gazer,bully_support,NEU
+Justine,Ca vous fait rire??,victim,NEG
+amine66,c’est miteux,conciliator,NEG
+Justine,C'est orrible,victim,NEG
+Isabelle3,illettré ou quoi,bully_support,NEG
+Lea,Y a rien de drôle à ça,victim_support,NEG
+Isabelle3,si,bully_support,NEU
+Aurelie,fait gaffe qd tu faite le menage de pas aspirer les cendre a ton pere,bully_support,NEG
+Justine,Des millions de personnes sont mortes et Guillaume rit c'est insupportable,victim,NEG
+Guillaume,on aurait pu arrêter si il n'y avait pas de survivant juifs de la guerre,bully,NEG
+Isabelle3,grave mdrrr ouch,bully_support,NEU
+Isabelle3,bon écoute c simple y’a un problème on se voit et on en parle c tout,bully_support,NEU
+Lea,Je suis sans voix à force de lire ça. Y a pas à dire des insultes antisémites à tout va,victim_support,NEG
+Isabelle3,nn jrigooe on en parle ps,bully_support,NEU
+Leo69,bref justine ose remettre une photo de tes fetes de merde tu vas voir,bully,NEG
+Isabelle3,ça va se battre,bully_support,NEG
+Justine,Il y a eu heuresement des survivants juifs de la guerre: je suis la car ma grand mere a survécu,victim,NEU
+amine66,bon venez on trouve un arrangement,conciliator,POS
+Leo69,on va te prendre à 10,bully,NEG
+Guillaume,vive les anticémites,bully,NEG
+amine66,on arrête les insultes,conciliator,POS
+Guillaume,non,bully,NEG
+Isabelle3,on s’en tape,bully_support,NEG
+Guillaume,non,bully,NEG
+Aurelie,siii c bien les insulte,bully_support,NEU
+amine66,guillaume ftg,conciliator,NEG
+Lea,"Allez-y hein, on se voit au lycée et on en parle, dégonflés :)",victim_support,NEG
+Isabelle3,de ta vie HAHAHAHHA,bully_support,NEG
+Guillaume,nique toi,bully,NEG
+Lea,Vous assumez même pas vos insultes,victim_support,NEG
+Aurelie,jv tniker ta mere lea,bully_support,NEG
+amine66,arretez,conciliator,NEG
+Leo69,jtnique ta race,bully,NEG
+Guillaume,non amine,bully,NEU
+Leo69,tva voir,bully,NEG
+Isabelle3,on va te faire bouffer le sol la dégonfles de quoi,bully_support,NEG
+Leo69,jdehek pas avec toi,bully,NEG
+amine66,tu kleh ou quoi,conciliator,NEU
+Leo69,sale feuj,bully,NEG
+Aurelie,juif de mort,bully_support,NEG
+Guillaume,amine vient 1v1 devant le lycéé,bully,NEG
+Leo69,vsy demain 15h à la sortie tu vas voir,bully,NEG

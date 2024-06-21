@@ -1,0 +1,104 @@
+NAME,TEXT,ROLE,SENTIMENT
+<Emilie-Harceleur>,Alors julie t'ai dégeulasse de sortir avec une gadji bande de salopes,bully,NEG
+<Julie-Victime>,allo mme est homophobe,victim,NEG
+<Emilie-Harceleur>,mais tu veut quoi toi retourne avec ta gadji et assume au passant que vous ètent lesbiennes sa dégouteeee,bully,NEG
+<Julie-Victime>," on est pas ensemble déjà puis même si c'était le cas,  ça ne te regarde pas et je vois pas en quoi ça te concerne",victim,NEU
+<Anna-Soutien-Harceleur>,mais grave bande de lesbiennes vous degoutée aaaaah,bully_support,NEG
+<Emilie-Harceleur>,mais olalala frr assume t'aime les ch*ttes mais tu dégoute meme anna elle le dit,bully,NEG
+<Marie-Soutien-Victime>,laissé la tranquille elle n'est pas avec elle elle vous a dit,victim_support,POS
+<Anna-Soutien-Harceleur>,mais assumer vous degouter bande de crasseuse,bully_support,NEG
+<Emilie-Harceleur>,mais ya eu des photos pk elle mito,bully,NEG
+<Anna-Soutien-Harceleur>,grave on a tous vu,bully_support,NEG
+<Emilie-Harceleur>,grosse crasseuse,bully,NEG
+<Anna-Soutien-Harceleur>,grave abuser vous me degoutez,bully_support,NEG
+<Julie-Victime>,putain mais laissez nous tranquille jvous dis qu'on est pas ensemble point,victim,NEG
+<Anna-Soutien-Harceleur>,mais assume grosse pute,bully_support,NEG
+<Emilie-Harceleur>,wshhh elodie dit leur on a vu leur sal photo,bully,NEG
+<Julie-Victime>," tu m'étonnes que vous l'avez vue,  c'est vous qu'il l'avez prises connasses",victim,NEG
+<Anna-Soutien-Harceleur>,ftg grosse salope,bully_support,NEG
+<Julie-Victime>,tu sais dire d'autres choses à part ça ?,victim,NEG
+<Elodie-Soutien-Harceleur>,anna bebe t ou,bully_support,NEU
+<Marie-Soutien-Victime>,ça se fait pas en plus de prendre en photos,victim_support,POS
+<Elodie-Soutien-Harceleur>,mais cest des gouines,bully_support,NEG
+<Emilie-Harceleur>,et toi tu sais que la vie c'est homme femme pas femme femme salope,bully,NEG
+<Julie-Victime>," on est pas gouines,  je lui tenais la main pour la réconforter y a quoi ? laissez-nous vivre",victim,NEG
+<Anna-Soutien-Harceleur>,assume c pas compliquer,bully_support,NEG
+<Elodie-Soutien-Harceleur>,bande de gouines,bully_support,NEG
+<Emilie-Harceleur>,la réconforter et la galoche après,bully,NEG
+<Anna-Soutien-Harceleur>,bande de crasseuse,bully_support,NEG
+<Elodie-Soutien-Harceleur>,taimes les filles,bully_support,NEG
+<Julie-Victime>," y'a rien à assumer,  puisqu'y a r",victim,NEU
+<Elodie-Soutien-Harceleur>,burk sa me degoute,bully_support,NEG
+<Julie-Victime>,mellez-vous de votre cul,victim,NEG
+<Anna-Soutien-Harceleur>,assume que t'aime les filles c tout connasse,bully_support,NEG
+<Marie-Soutien-Victime>,elle etait juste en train de la rassurer cest rien,victim_support,POS
+<Elodie-Soutien-Harceleur>,cul de crasseuse,bully_support,NEG
+<Anna-Soutien-Harceleur>,on fait ce qu'on veut grosse chienne,bully_support,NEG
+<Julie-Victime>,tg saloppe,victim,NEG
+<Elodie-Soutien-Harceleur>,marie tg,bully_support,NEG
+<Anna-Soutien-Harceleur>,grosse pute va,bully_support,NEG
+<Elodie-Soutien-Harceleur>,saloperie,bully_support,NEG
+<Anna-Soutien-Harceleur>,on dit que la vérité grosse pute,bully_support,NEG
+<Elodie-Soutien-Harceleur>,chienne que tes ont aimes pas les lesbienne ici,bully_support,NEG
+<Emilie-Harceleur>,bref venais on les vire de la classe c'est grosse crasseuse,bully,NEG
+<Elodie-Soutien-Harceleur>,qui les supp du groupe la,bully_support,NEG
+<Anna-Soutien-Harceleur>,je vais les supprimer,bully_support,NEG
+<Elodie-Soutien-Harceleur>,on veut pas de sa ici,bully_support,NEG
+<Anna-Soutien-Harceleur>,grave pas de crasseuse,bully_support,NEG
+<Elodie-Soutien-Harceleur>,enfiiin,bully_support,NEG
+<Anna-Soutien-Harceleur>,me degoute,bully_support,NEG
+<Elodie-Soutien-Harceleur>,burk bande de chienne,bully_support,NEG
+<Arthur-Conciliateur>,c'est bon chacun fait ce qu'il veut aucune d'entre vous n'aimerait faire faire insulter alors pourquoi vous continuer,conciliator,POS
+<Julie-Victime>,ça se voit vous êtes pas des potes si ça vous est jamais de réconforter votre pote,victim,NEG
+<Elodie-Soutien-Harceleur>,on sen blkkkkk mais fort,bully_support,NEG
+<Anna-Soutien-Harceleur>,mais ftg,bully_support,NEG
+<Julie-Victime>,bah alors tais-toi et laisse-nous vivre,victim,NEG
+<Anna-Soutien-Harceleur>,assume que t gouine c tout grosse pute va,bully_support,NEG
+<Elodie-Soutien-Harceleur>,faut assumer frr,bully_support,NEG
+<Emilie-Harceleur>,mais c'est pas notre pote  deja,bully,NEG
+<Anna-Soutien-Harceleur>,lvdm assume saliope,bully_support,NEG
+<Julie-Victime>,c'est quoi le rapport entre être gouine et être une pute ?,victim,NEG
+<Anna-Soutien-Harceleur>,salope,bully_support,NEG
+<Elodie-Soutien-Harceleur>,pute et gouine cla meme,bully_support,NEG
+<Julie-Victime>,ça te dérange si c'était le cas ?,victim,NEU
+<Anna-Soutien-Harceleur>,ftg,bully_support,NEG
+<Elodie-Soutien-Harceleur>,oui les garcons avec les filles pas filleet fille c degeulasse,bully_support,NEG
+<Anna-Soutien-Harceleur>,grave vous me degouter,bully_support,NEG
+<Julie-Victime>,t'as un problème va te faire soigner sale homophobe,victim,NEG
+<Emilie-Harceleur>,exactement stv on te fait un cour crasseuse,bully,NEG
+<Anna-Soutien-Harceleur>,c toi ta un problème grosse pute,bully_support,NEG
+<Arthur-Conciliateur>,mais calmez-vous chaqu'un s'est préférence,conciliator,POS
+<Elodie-Soutien-Harceleur>,ftg c toi la gouine tu parle avec nous sombre pute wallah t ki,bully_support,NEG
+<Emilie-Harceleur>,on va dire a un gadjo de la violer sa va lui remettre les idée en place,bully,NEG
+<Elodie-Soutien-Harceleur>,graaave,bully_support,NEG
+<Anna-Soutien-Harceleur>,mais grave wlh,bully_support,NEG
+<Elodie-Soutien-Harceleur>,elles vont voir ce que c de ce faire peter le q,bully_support,NEG
+<Anna-Soutien-Harceleur>,bande de pute va mais grave elle vont voir,bully_support,NEG
+<Julie-Victime>,mais t'es une grande malade toi,victim,NEG
+<Elodie-Soutien-Harceleur>,un zizi pas de chatte,bully_support,NEG
+<Julie-Victime>,t'as des problèmes pour dire des choses pareil,victim,NEG
+<Anna-Soutien-Harceleur>,:') :') :') :') :') :'),bully_support,NEU
+<Julie-Victime>,tu te rends compte de ce que tu dis là ??,victim,NEG
+<Elodie-Soutien-Harceleur>,je rigole roh,bully_support,NEU
+<Anna-Soutien-Harceleur>,ftg tu vas kiffer,bully_support,NEG
+<Elodie-Soutien-Harceleur>,un peu d'humour,bully_support,NEU
+<Emilie-Harceleur>,ptdrrr grvvv et arthur ta channgé jte croyais pas comme sa quoi toiausssi tai pd,bully,NEG
+<Arthur-Conciliateur>," mais arrêter c'est exessif la vous aimeriez etre a sa place et qu'on vous dises la meme chose ?! Non,  parce que personne ne mérite ca ",conciliator,POS
+<Elodie-Soutien-Harceleur>,ouais arthur xsh t sah,bully_support,NEG
+<Anna-Soutien-Harceleur>,mais grave putain c chaud,bully_support,NEG
+<Julie-Victime>," allo le viol c'est pas une blague grosse bouffonne,  va falloir avoir des valeurs un peu là un minimum",victim,NEG
+<Marie-Soutien-Victime>,laissé la tranquille elle a le droit d'aimer qui elle veut,victim_support,POS
+<Elodie-Soutien-Harceleur>,c une blague les gens qui retournent leur veste la tous des hypocrites la,bully_support,NEG
+<Anna-Soutien-Harceleur>,mais grave que des traitres,bully_support,NEG
+<Elodie-Soutien-Harceleur>,on est pas de fucking monde,bully_support,NEG
+<Julie-Victime>," si vous ne disiez pas n'importe quoi aussi,  les gens seraient peut-êtr eun peu avec vous",victim,NEG
+<Anna-Soutien-Harceleur>,ptddddrrrrrrr mais la blague,bully_support,NEG
+<Elodie-Soutien-Harceleur>,rien a foutre PAS DE GOUINE ICI,bully_support,NEG
+<Emilie-Harceleur>,bande de crasseux meme arthur on va te degager de la classe,bully,NEG
+<Julie-Victime>," mais vous allez trop loin,  vous dites n'importes quoi alors vous méritez les deux connasses",victim,NEG
+<Anna-Soutien-Harceleur>,on va pas de sa iciiiii merde,bully_support,NEG
+<Emilie-Harceleur>,STOP LESBIENNES !!!!,bully,NEG
+<Anna-Soutien-Harceleur>,DEHORSSSSS,bully_support,NEG
+<Emilie-Harceleur>,tchaoooooo,bully,NEG
+<Julie-Victime>,allez-y dégagez nous vous allez faire quoi ?,victim,NEG
+<Julie-Victime>,c'est les homophobes qu'on dégage pas nous,victim,NEG

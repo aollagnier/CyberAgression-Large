@@ -1,0 +1,83 @@
+NAME,TEXT,ROLE,SENTIMENT
+<Zoé-Victime>,pourquoi vous avez diffusé des photos de moi ?,victim,NEG
+<Natacha-Soutien-Harceleur>,bande de conne,bully_support,NEG
+<Marjorie-Harceleur>,salope ! tu t vu ?,bully,NEG
+<Zoé-Victime>,marjorie et lucie ? je me suis vu de quoi?,victim,NEU
+<Lucie-Harceleur>,quoi sale grosse,bully,NEG
+<Natacha-Soutien-Harceleur>,serieux tu t'es vue pétasse,bully_support,NEG
+<Marjorie-Harceleur>,tu ressemble a mon anus,bully,NEG
+<Zoé-Victime>,je t ai fait quoi pour que tu dises ça,victim,NEU
+<Natacha-Soutien-Harceleur>,:') :') :') :'),bully_support,NEU
+<Lucie-Harceleur>,frère t'es là tu fais la lèche avec les profs,bully,NEG
+<Soan-Soutien-Victime>,arreté bande de conne vous avez cas travaillé,victim_support,NEG
+<Natacha-Soutien-Harceleur>,espece de hassa boulette,bully_support,NEG
+<Marjorie-Harceleur>,t grosse tu bouffe que des macdo,bully,NEG
+<Soan-Soutien-Victime>,laissé la tranquille elle vous a rien fais,victim_support,POS
+<Natacha-Soutien-Harceleur>,toi ta gueule,bully_support,NEG
+<Lucie-Harceleur>,et  elle elle a qu'a maigrir,bully,NEG
+<Natacha-Soutien-Harceleur>,tu commence a m'enerver,bully_support,NEG
+<Zoé-Victime>,tu sais pas ma vie,victim,NEG
+<Axelle-Soutien-Victime>,vous etes nul en cours et vous vous defoulez sur une meuf bcp mieux que vous,victim_support,NEG
+<Zoé-Victime>,merci axelle,victim,POS
+<Natacha-Soutien-Harceleur>,ptdrrr alors si une grosse boule,bully_support,NEG
+<Soan-Soutien-Victime>,ben peutetre quelle a des probleme de santé et  alors ta pas a la traite comme sa,victim_support,NEG
+<Natacha-Soutien-Harceleur>,et mieux que nous crée ma tombe,bully_support,NEG
+<Marjorie-Harceleur>,tt a fait tu as qua maigrir,bully,NEG
+<Zoé-Victime>,je te roule dessus natacha,victim,NEG
+<Natacha-Soutien-Harceleur>,svpppp!!!!,bully_support,NEU
+<Lucie-Harceleur>,euuuuh y a pas mieux que nous en fait,bully,NEG
+<Zoé-Victime>,pfff vous faites trop les meufs,victim,NEG
+<Soan-Soutien-Victime>,mais ferme la ta  vu ta gueule,victim_support,NEG
+<Marjorie-Harceleur>,Tu fait ta victime tu sais pas te defendre seul,bully,NEG
+<Lucie-Harceleur>,natacha elle va mourir si tu lui roulle dessus t'as t'es 3 ptit klebs,bully,NEG
+<Natacha-Soutien-Harceleur>,:') :') :') :') :'),bully_support,NEU
+<Soan-Soutien-Victime>,"Ne les écoutes pas Zoé,  le physique ne compte pas tu es très bien comme tu es. Le principale c'est que tu te sentes bien dans ton coeur",victim_support,NEG
+<Natacha-Soutien-Harceleur>,sa y est jsuis morte deja,bully_support,NEU
+<Zoé-Victime>,merci de me dire ça,victim,POS
+<Marjorie-Harceleur>,tant mieu,bully,POS
+<Soan-Soutien-Victime>,"Elles sont juste immature de faire ca,  preuve que c'est des gamines",victim_support,NEG
+<Marjorie-Harceleur>,tg elisa,bully,NEG
+<Soan-Soutien-Victime>,zoé tu vaux mieux que sa,victim_support,POS
+<Natacha-Soutien-Harceleur>,c elle qui est venue nous dm donc on lui dit ce quon pense merdeee,bully_support,NEG
+<Zoé-Victime>,bah normal vous avez envoyé des photos a tout le monde je prends pas des photos de vous dans les vestiaires moi,victim,NEU
+<Soan-Soutien-Victime>,elle au moin  elle respect les gens,victim_support,POS
+<Lucie-Harceleur>,ouais maint tkt on te vois pas derrire tes bourllet,bully,NEG
+<Soan-Soutien-Victime>,Tu as le droit de porter plainte tu sais,victim_support,NEG
+<Marjorie-Harceleur>,beh oui elle est venu nous parler elle cherche la merde cette grosse,bully,NEG
+<Soan-Soutien-Victime>,contrairrement a vous salle conne,victim_support,NEG
+<Axelle-Soutien-Victime>,vous prenez des photos des gens sans leurs consentement vous êtes riducule,victim_support,NEG
+<Marjorie-Harceleur>,cava bouboule ?,bully,NEG
+<Natacha-Soutien-Harceleur>,beh ta qua arreter de faire des photos sexy qui sont pas fait pour toi,bully_support,NEG
+<Soan-Soutien-Victime>,et toi ta vu ta gueule,victim_support,NEG
+<Lucie-Harceleur>,:') :') :') :') sexyyyy tout le contraire de zoe,bully,NEG
+<Soan-Soutien-Victime>,mongolienne,victim_support,NEU
+<Marjorie-Harceleur>,oui je lau vu ne tkt pas,bully,NEU
+<Zoé-Victime>,j'ai des seins vous êtes des grosses jalouse vous avez rien vous,victim,NEG
+<Lucie-Harceleur>,ah je croyais que s'etait des bourllets,bully,NEG
+<Marjorie-Harceleur>,je suis 10 fois mieu foutu que elle bouffonne,bully,NEG
+<Soan-Soutien-Victime>,mais putin merde a la fin laissé la tranquille elle vous a rien fais,victim_support,NEG
+<Axelle-Soutien-Victime>,vous avez pas de forme vous bande jalouse,victim_support,NEG
+<Zoé-Victime>,c'est toi le bourlet lucie,victim,NEG
+<Soan-Soutien-Victime>,elle au moin elle est pas conne comme vous bande de poufiasse,victim_support,NEG
+<Natacha-Soutien-Harceleur>,jte fou un coup avec mes seins tu verras,bully_support,NEG
+<Marjorie-Harceleur>,va retourner manger macdo avec tes 3 menu signature,bully,POS
+<Lucie-Harceleur>,ma pauvre moi je casse pas la balance,bully,NEG
+<Marjorie-Harceleur>,cest pas des forme c de la graisse,bully,NEG
+<Soan-Soutien-Victime>,Mais en tout cas tu casses autre chose LUcie...,victim_support,NEG
+<Lucie-Harceleur>,c'est clair,bully,POS
+<Natacha-Soutien-Harceleur>,ayaaaa sa tire a balle reel iciiiii,bully_support,NEU
+<Zoé-Victime>,je prefere casser la balance,victim,NEU
+<Soan-Soutien-Victime>,ferme la marjorie t'es  qu'une poufiasse sans cervelle,victim_support,NEG
+<Axelle-Soutien-Victime>,bah au moins elle est pas plate comme vous bande de conne,victim_support,NEG
+<Lucie-Harceleur>,ah ben ca elle a que de la graisse en meme temps,bully,NEG
+<Natacha-Soutien-Harceleur>,ON EST TRES BIEN FORMER,bully_support,POS
+<Lucie-Harceleur>,ca fait des montagne de cellulite,bully,NEG
+<Marjorie-Harceleur>,toi tu ressemble a un anus perimé,bully,NEG
+<Natacha-Soutien-Harceleur>,C JUSTE ON EST PAS GROSEE PETASSE,bully_support,NEU
+<Zoé-Victime>,mon physique est peut etre pas parfait mais au moins je suis pas une connasse comme vous,victim,NEG
+<Soan-Soutien-Victime>,bien ditt C'est beaucoup plus beau une fille avec des formes et des kilos en trop qu'une personne plate qui ressemble a une planche a pain bande de pute,victim_support,NEG
+<Lucie-Harceleur>,je suis fiere d'etre une connassse,bully,POS
+<Soan-Soutien-Victime>,totalement raison Zoé,victim_support,NEG
+<Axelle-Soutien-Victime>,au moins elle reussira sa vie plutot qu'etre conne comme vous,victim_support,NEG
+<Soan-Soutien-Victime>,ben  tu fera pas long feu dans ta viie,victim_support,NEG
+<Zoé-Victime>,ouais elles vont finir à faire la manche avec leur cerveau,victim,NEG

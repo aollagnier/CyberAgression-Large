@@ -1,0 +1,180 @@
+NAME,TEXT,ROLE,SENTIMENT
+leo77,façon j'veux ps d'une crasseuse comme toi,bully_support,NEG
+Paul72,Claire c'est pas le mot,bully_support,NEU
+@FatimahVictime,Je voudrais qu'on arrête de se moquer de moi et ma culture,victim,POS
+@FatimahVictime,Salut Julie c'est avec toi que je voulais parler,victim,NEU
+julie20,la vie t'es fat ima,bully,NEG
+coralie,bizzarement ils insultent moins la,victim_support,NEU
+@FatimahVictime,arrête tes commentaires et de m'insulter dans mon dos tu crois que j'ai pas vu ton petit jeu... Et tes insinuations...,victim,NEG
+leo77,c'est une clocharde en meme temps,bully_support,NEG
+@FatimahVictime,S'il te paît arrête.,victim,NEU
+coralie,ils ont meme pas d'interet a t'insulter,victim_support,POS
+julie20,c pas dans ton dos chuis en face,bully,NEG
+leo77,bah on va voir en vrai si on va rien faire,bully_support,NEG
+coralie,mais regarde les ils peuvent que insulter vous pouvez argumenter ?,victim_support,NEU
+@FatimahVictime,FAT IMA .. tu as un humour incroyable !,victim,NEG
+julie20,oe je sais,bully,NEU
+@FatimahVictime,"La dernière fois qu'on m'a fait cette blague, j'étais en maternelle.",victim,NEG
+coralie,c'est clair,victim_support,NEU
+leo77,bon tg tu parles trop,bully_support,NEG
+@FatimahVictime,Leo..,victim,NEU
+julie20,tu casse les couilles,bully,NEG
+@FatimahVictime,Tu n'as rien à faire ici..,victim,NEG
+Paul72,manges du couscous,bully_support,NEG
+@FatimahVictime,C'est entre moi et julie !,victim,NEU
+leo77,on va te faire manger du saucisson,bully_support,NEG
+coralie,enfaite les gars vous savez pas harceler,victim_support,NEG
+julie20,trahisonnnnnnnnn,bully,NEG
+coralie,vous etees des breles,victim_support,NEG
+@FatimahVictime,Ils sont nuls !,victim,NEG
+coralie,grave,victim_support,NEG
+@FatimahVictime,mdr,victim,NEG
+leo77,coralie ferme ta gueule toi aussi t'es une petasse,bully_support,NEG
+julie20,t'es Fatigué,bully,NEG
+Paul72,ah parce que c'est un job maintenant,bully_support,NEG
+@FatimahVictime,Bon Julie,victim,NEU
+coralie,octogone quand tu veux leo77,victim_support,NEG
+@FatimahVictime,tu peux me promettre que tu vas arrêter ?,victim,POS
+coralie,avec ton corps tout frele,victim_support,NEG
+leo77,coralie et fatimah c'est des salopes,bully_support,NEG
+@FatimahVictime,ce sont *,victim,NEG
+julie20,mais oui mv,bully,NEG
+leo77,m'en branle,bully_support,NEG
+coralie,leo77 n'a pas d'arguments,victim_support,NEG
+@FatimahVictime,quand on parle bien français!!,victim,NEG
+julie20,tg rentre chez toi,bully,NEG
+@FatimahVictime,... je suis française donc je suis chez moi,victim,NEU
+coralie,leo77 il sais pas insulter et il sais pas parler francais,victim_support,NEG
+julie20,t'es sans papiers on le sais,bully,NEG
+@FatimahVictime,tu veux les voir julie ?,victim,NEU
+leo77,fatimah pas très francais,bully_support,NEG
+Paul72,La géographie c'est pas ton fort,bully_support,NEG
+julie20,tu peux pas les monter,bully,NEG
+coralie,le niveau de vos blagues est eclaté les gars faite un effort,victim_support,NEG
+leo77,"fatimah son vagin il sens le cochon,",bully_support,NEG
+Paul72,retourne te faire enculer par un singe,bully_support,NEG
+julie20,tu sais nager fat ?,bully,NEG
+@FatimahVictime,C'est pas toi qui vas le sentir Leo !,victim,NEG
+leo77,"tkt y a des photos qui tournent , pas très rasé tout ca",bully_support,NEG
+Paul72,you born fat,bully_support,NEG
+coralie,t'en a jamais vu en vrai donc ta de la chance,victim_support,NEG
+@FatimahVictime,"Si tu fais ça, ... tu sais que je peux porter plainte?",victim,NEG
+leo77,j'ai vu le cul de ta soeur,bully_support,NEG
+coralie,t'en a pas vu non plus,victim_support,NEG
+julie20,ça va etre fait tkt,bully,NEG
+leo77,porte plainte grosse folle sa va te meler,bully_support,NEG
+coralie,ta jamais toucher personne,victim_support,NEG
+@FatimahVictime,"Et Leo, je vois pas comment tu pourrais avoir ce genre de photo..",victim,NEU
+coralie,leo77,victim_support,NEU
+leo77,tout le monde a vu ton cul,bully_support,NEG
+coralie,bolosse,victim_support,NEG
+leo77,en plus ta meme pas de forme mskn,bully_support,NEG
+Paul72,tu as pu venir en france donc tout est possible,bully_support,NEG
+coralie,avec ton 2cm tu peut pas parler,victim_support,NEG
+julie20,ça surcule avec tous les mecs qui ton dé glingué,bully,NEG
+@FatimahVictime,"Leo et Paul, on vous a pas causé .",victim,NEG
+coralie,leo77,victim_support,NEU
+Paul72,sinon il recherche un acteur pour le prochain kirikou,bully_support,NEG
+leo77,fatimah on va t'enfoncer ton voile dans le cul,bully_support,NEG
+@FatimahVictime,"Julie, tu as peur de moi ou quoi ? T'es moche Julie...",victim,NEG
+julie20,mais tg toi on est Fat igué,bully,NEG
+coralie,paul et leo vous etes vraiment fatiguant c'est aberrant avec vos tete de teub,victim_support,NEG
+@FatimahVictime,S'il te plaît Julie !,victim,POS
+leo77,toi dans la tete dans des teub,bully_support,NEG
+@FatimahVictime,Arrête tes blagues !,victim,POS
+leo77,ta la,bully_support,NEU
+@FatimahVictime,Je suis pas grosse,victim,NEG
+leo77,t'es obese,bully_support,NEG
+@FatimahVictime,FAT = grosse,victim,NEG
+julie20,tg avec ta tete d'immigré,bully,NEG
+leo77,ta manger trop de bite,bully_support,NEG
+Paul72,normal un singe ça bouffe des teub,bully_support,NEG
+coralie,c'est toi le singe,victim_support,NEG
+leo77,faut doser sur le couscous,bully_support,NEG
+coralie,t'es meme un chien,victim_support,NEG
+julie20,*retourne manger tes bananes,bully,NEG
+Paul72,les merguez t'en prends pas que dans la bouche,bully_support,NEG
+coralie,julie tu pu le seum parce qu'elle est belle,victim_support,NEG
+@FatimahVictime,"Julie, arrête maintenant",victim,NEG
+coralie,julie20 ta trop la rage,victim_support,NEG
+julie20,et toi tu pu...,bully,NEG
+@FatimahVictime,T'as pas besoin d'être jalouse,victim,NEG
+leo77,salam,bully_support,NEU
+@FatimahVictime,je ne vais pas te voler ton petit ami car t'en n'as pas!,victim,NEG
+coralie,ptdr ta aucune chance,victim_support,NEG
+Paul72,coralie porte parole de la boulémi,bully_support,NEG
+leo77,envoie ton snap,bully_support,NEG
+coralie,tema c'est chien,victim_support,NEG
+coralie,julie elle pu le seum parce que fatima elle est 20 fois mieux qu'elle,victim_support,NEG
+leo77,fatimah elle est 20fois plus grosse qu'elle,bully_support,NEG
+leo77,va la mosquée grosse folle,bully_support,NEG
+leo77,ta trop la rage,bully_support,NEG
+@FatimahVictime,Julie c'est avec toi que ça se passe,victim,NEG
+Paul72,Fatigras,bully_support,NEG
+coralie,leo toi t'es vraiment comme les autres,victim_support,NEG
+julie20,va bouffer ton couscous,bully,NEG
+@FatimahVictime,maintenant promets moi que tu vas arrêter,victim,POS
+coralie,"mais developppe change tesz argume,ts",victim_support,NEG
+julie20,non tg,bully,NEG
+coralie,grosse merde,victim_support,NEG
+leo77,on va pas arreter c que le debut on va t'harceler toute la vie on va venir devant chez toi on va te bz,bully_support,NEG
+coralie,#une pensé pour paul le con,victim_support,NEG
+julie20,t'as cas crever,bully,NEG
+coralie,biienn suuur,victim_support,NEG
+Paul72,au pire tu veux pas rentrer chez toi et cassez les couilles a ta famille,bully_support,NEG
+@FatimahVictime,Je me sens pas bien quand vous faîtes ça..,victim,NEG
+leo77,coralie sa se voit c un modo discord,bully_support,NEG
+coralie,leo77 t'es un squellette frerot tu vas rien faire c'est quoi ca ? modo ?,victim_support,NEG
+Paul72,si il te soulève il est fort,bully_support,NEG
+coralie,non,victim_support,NEG
+leo77,bahaha va faire du sport,bully_support,NEG
+coralie,il touche personne,victim_support,NEG
+leo77,coralie elle a le sida,bully_support,NEG
+julie20,fatima ça fait quoi de pas pouvoir rentrer chez soi ??,bully,NEG
+coralie,leo77 ?? c'est quoi ces argument aclater,victim_support,NEG
+@FatimahVictime,"STOP PAUL ! STOP LEO ! ET JULIE, on va régler ça en FACE2FACE j'en peux PLUS !",victim,NEG
+leo77,viens en sorrt,bully_support,NEG
+Paul72,Hitler il était pas si mauvais il s'est juste tromper de cible,bully_support,NEG
+@FatimahVictime,C'EST HORRIBLE C'QUE TU DIS PAUL!,victim,NEG
+Paul72,les arabes,bully_support,NEG
+coralie,qu'est ce qui raconte lui,victim_support,NEU
+julie20,non c'est fatima qui a le sida a force de se faire pin,bully,NEG
+leo77,nique les bougnoules,bully_support,NEG
+@FatimahVictime,IL AURAIT DU T'EXTERMINER !,victim,NEG
+Paul72,les boukak les melons,bully_support,NEG
+leo77,les singes,bully_support,NEG
+Paul72,c'est ciao,bully_support,NEG
+julie20,good by,bully,NEG
+leo77,tu t'es suicidé,bully_support,NEG
+leo77,j'espere en tout cas,bully_support,NEG
+julie20,ça fera de la place,bully,NEG
+@FatimahVictime,"Sincèrement, je peux plus dormir la nuit avec vos horreurs !",victim,NEG
+Paul72,tu sais ce qui separe les animaux des humains ? la mer méditerranné,bully_support,NEG
+@FatimahVictime,Vous n'avez aucune pitié ça m'affecte beaucoup,victim,NEG
+julie20,ba rentre chez toi,bully,NEG
+julie20,a la nage,bully,NEG
+coralie,Paul72 tu fais trop de bruit on les entends moins les bolosses,victim_support,NEG
+@FatimahVictime,"Heureusement que je sais nager Julie, contrairement à toi....",victim,NEG
+coralie,et bim,victim_support,NEG
+leo77,ferme ta gueule jvais te faire bouffer ma bite,bully_support,NEG
+coralie,oui,victim_support,NEU
+Paul72,ferme ton fiac on arrive pas a s'entendre,bully_support,NEG
+coralie,comme d'hab,victim_support,NEG
+@FatimahVictime,C'était tellement drôle de voir dans l'eau au dernier cours de natation !,victim,NEG
+leo77,coralie c'est une obese qui baise,bully_support,NEG
+@FatimahVictime,Donc viens pas me chercher sur ce terrain !,victim,NEG
+julie20,ces les singes qui savent pas nager,bully,NEG
+coralie, la merde ca sort par le cul et pas par la bouche leo77 et Paul72 ;P,victim_support,NEG
+Paul72,t'as déjà vu un noir d'en l'eau il coule,bully_support,NEG
+leo77,coralie j vais tellement t'neculer qu'on va retrouver du petrole dans ton cul enculer,bully_support,NEG
+@FatimahVictime,"Leo et Paul, vous n'êtes que des diarrhées verbales !",victim,NEG
+julie20,C fat quand elle nage,bully,NEG
+@FatimahVictime,Julie stp stop,victim,NEG
+coralie,leo77 tu pourra pas me toucher avec ton chbrax de 2cm,victim_support,NEG
+leo77,tgg,bully_support,NEG
+julie20,et toi juste une diarrhé,bully,NEG
+leo77,"j ai une ak 47 dans le caleco,",bully_support,NEG
+coralie,aller c'est ciao les noobs jme tire,victim_support,NEG
+@FatimahVictime,Julie stp arrête maintenant !,victim,NEG
+julie20,bonsoir non,bully,NEG
+Paul72,ta natation c'est dans la mer noire,bully_support,NEG

@@ -1,0 +1,231 @@
+NAME,TEXT,ROLE,SENTIMENT
+Pierre47,wsh wsh canne a peche,victim_support,NEU
+Pierre47,ça smart ?,victim_support,NEU
+Coralie,bonjù,victim_support,NEU
+julie,salutttt,bully,NEU
+Fatimah-victime,Hey !,victim,NEU
+Pierre47,Mademoiselle vous m'avais l'air très charmante moyen d'avoir un 06 petite Coralie,victim_support,POS
+Leo68,bahahah tu veux le num d'une immigrée ?,bully_support,NEG
+julie,j'avoue mdr,bully,NEG
+Leo68,bahaha faut l'envoyer dans l'avion oe avec sa boue sur les doigts là,bully_support,NEG
+Pierre47,wow ça c'est limite fréro calme le jeux,victim_support,NEU
+julie,nan chuis d'accord avec lui,bully,POS
+Pierre47,sinon je devrais t'envoyer te délecter de t'es ancetres,victim_support,NEG
+Leo68,faut être honnête dans la vie mon reuf,bully_support,NEU
+Coralie,wow calmez vous,victim_support,NEU
+Leo68,ouuuh mais c'est que on protège la petite immigrée,bully_support,NEG
+Leo68,on se calme pas ici personne veut d'elle frr,bully_support,NEG
+Fatimah-victime,C'est quoi ces commentaires raciste la ?? vous etes serieux ?,victim,NEG
+Pierre47,pas gentil,victim_support,NEG
+Coralie,pk vous dites des trucs racistes,victim_support,NEG
+Pierre47,calme toi Leo,victim_support,NEU
+Leo68,"toi la djiadiste on t,as pas parlé donc ta geule",bully_support,NEG
+Leo68,avec tes doigts sale là,bully_support,NEG
+kate93,vous etes tous des merdes,bully,NEG
+julie,j'avoue qu'elle retourne dans son pays qu'elle nous fasse pas chier,bully,NEG
+Pierre47,elle vas faire pt t'es mort tu vas voir remake des tours jumelles dans ton bat,victim_support,NEG
+Fatimah-victime,"aller c'est partie, pour toi tous les musulman sont des djiadiste ? le niveau quoi",victim,NEG
+Sandrine12,Oh calme toi la,conciliator,NEU
+Leo68,grave mdrr elle est tellement sale que même les algériens ils veulent pas d'elle,bully_support,NEG
+julie,et fatimah arrete de trainer avec les gars qu'est qui trouve de beau chez toi serieux,bully,NEG
+Leo68,bah oui t'es une bombe à retardement :'),bully_support,NEG
+Fatimah-victime,julie tu est juste jalouse ! tu pas mieux a faire dans ta vie ?,victim,NEG
+Pierre47,tg c'est toi qui pue leo tu joue a lol frère me parle pas de douche,victim_support,NEG
+Leo68,j'avoue elle est cheum,bully_support,NEG
+Sandrine12,leo taimerai quon parle de ta mere comme sa,conciliator,NEU
+julie,nan mais fatimah t juste une conne et une voleuse de petits amis,bully,NEG
+paul83,julie elle est pas jalouse frr tu met de la merde sur t doit tu crois elle vas te jalousé,bully_support,NEG
+julie,tout le monde le sais,bully,NEG
+Leo68,j'aimerai que tu la fermes,bully_support,NEG
+Pierre47,ta la coupe a Many dans l'age de glace parle pas,victim_support,NEG
+Fatimah-victime,Leo68 c'est un compliment MDR ?,victim,NEU
+Pierre47,étouffe toi avec mes boules Leo68,victim_support,NEG
+kate93,oh fermez vos gueule bande de fdp vous parlez trop,bully,NEG
+Leo68,tg pierre,bully_support,NEG
+kate93,pour rien dire,bully,NEG
+Sandrine12,vous aimez les fraises ?,conciliator,NEU
+paul83,tes parent immigres la retourne dans ton pays,bully_support,NEG
+Leo68,va te faire exploser avec ton gros porc et casse toi,bully_support,NEG
+Pierre47,kate93 vas te sucider,victim_support,NEG
+Leo68,grv mdrr paul il a trop raison,bully_support,POS
+Coralie,Oe c super bon les fraises Sandrine12,victim_support,POS
+Fatimah-victime,C'est surtoutvous kate93 et julie !! cous etes des rasiste j'ai vue la conv sur Watsapp,victim,NEG
+kate93,comment ca va te sucider tu veux jte ntm ou quoi,bully,NEG
+Fatimah-victime,pourquoi tu fait ça ? tu veut quoi ?,victim,NEU
+julie,et toi pk tu voles les petits amis et tu fais chier tout le monde,bully,NEG
+Pierre47,Leo68 kate93 je pisse sur vos daronnes elle a rien fait fatimah,victim_support,NEG
+paul83,pierre et coralie art de sucer,bully_support,NEG
+Pierre47,</3,victim_support,NEG
+Leo68,nan elles sont honnête frr  puis tg arrête de parler une langue qui ne vient pas de ton pays d'immigrés fatima la sale,bully_support,NEG
+julie,tu comprends pas que personne veux de toiiii,bully,NEG
+kate93,pourquoi tu t'appelle fatimah la honte quoi,bully,NEG
+Coralie,arretez les propos racistes ça sert à rien,victim_support,NEU
+Leo68,fatima la grosse rat,bully_support,NEG
+Fatimah-victime,Je ne vois pas en quoi je vole amis ?? je suis comme tous le monde j'ai le droit de faire ce que je veut ?? Si tu en as pas c'est ton soucis pas le mien,victim,NEU
+kate93,fatimah la grosse pute,bully,NEG
+Sandrine12,vous voulez pas quon organise une sortit pour vous calmer,conciliator,NEU
+Pierre47,je suis obliger de pepon ton père car ta salope de mère est pas capable de le faire paul83,victim_support,NEG
+julie,nana mais fatimah t laide tu plaies a personne,bully,NEG
+Leo68,mais arrête de toucher les mecs avec tes doigts crades wsh,bully_support,NEG
+Fatimah-victime,"ça te pose un soucis, par ce que Kate c'est mieux peut etre ? fatimah c'est trés jolie et je suis fiere de porté ce prénom",victim,NEG
+Pierre47,ftg julie retourne en schimio,victim_support,NEG
+kate93,bah kate c'est deja plus francais quoi ptdrrr,bully,NEG
+Leo68,pierre va avec ton immigré et tais toi bnande de crades,bully_support,NEG
+Fatimah-victime,julie Pourquoi tu as si peut alors ?,victim,NEU
+Coralie,ça va tu va bien paul83,victim_support,NEU
+paul83,bsahtek on ta pas demander si t'etait fier de porter ton prenom ont s'en blc,bully_support,NEG
+Fatimah-victime,julie Pourquoi tu as si peure alors ?,victim,NEU
+Leo68,grvvv mdr tg l'immigré,bully_support,NEG
+Pierre47,go back to the kicthen kate83,victim_support,NEG
+julie,vraiment fatimah tu casses les couilles a tout  le monde,bully,NEG
+Coralie,non,victim_support,NEG
+Leo68,retourne manger du cochon,bully_support,NEG
+Sandrine12,fatimah ils sont beaux tes doigts jadore,conciliator,POS
+julie,comment des gens peuvent te defendre,bully,NEG
+Coralie,me too,victim_support,POS
+Fatimah-victime,paul83 arrete d'etre le chienchien de Kate et Julie et réfléchie par toi meme un peu,victim,NEG
+paul83,sandrine suceuse,bully_support,NEG
+Leo68,ptdrr pierre est sexiste mais il nous traite de rasciste,bully_support,NEG
+Pierre47,mais tg toi,victim_support,NEG
+Sandrine12,paul comment tu peux me dire sa,conciliator,NEU
+kate93,bah nan paul je laime trop,bully,POS
+Leo68,grv paul elle aime en manger hein,bully_support,NEG
+Fatimah-victime,julie Les gens logique ! ceux qui ne sont pas rasiste et qui ne vivent pas dans des peures inventé,victim,NEU
+kate93,oue jadore manger paul,bully,POS
+Pierre47,(y)  tu vois je met mon pouce dans ton cul Leo68,victim_support,NEG
+paul83,paul c un prenom sale chien pk tu dit elle aime en manger,bully_support,NEG
+Sandrine12,D:,conciliator,NEU
+Pauline,-_-,conciliator,NEG
+Leo68,fatimah va bouffer du cochon avec tes doigts remplie de caca,bully_support,NEG
+julie,c'est pas des gens logique c'est juste des gens qui ont pitié de toi,bully,NEG
+kate93,tu nous fauis de la peine,bully,NEG
+Leo68,faute de frappe mon reuf,bully_support,NEU
+Fatimah-victime,Ah oui le niveau ! tu as jamais vue de l'henné de ta vie ou quoi ?,victim,NEU
+paul83,Fatimah tgl stp,bully_support,NEG
+Pierre47,j'ai baisé la mère de la soeur de vos cousine kate93 julie Leo68 \O/  chien tete en haut,victim_support,NEG
+Leo68,pierre chui pas gay donc garde ton doigts pour toi,bully_support,NEG
+paul83,c pas du henne c de la merde sale chienne sale arabe,bully_support,NEG
+kate93,et moi jbz ta grand mere la pute,bully,NEG
+Leo68,oeeee paul il a tarpin raison,bully_support,POS
+julie,t'a pas trouvé mieux pierre,bully,NEG
+Coralie,Pierre47 t vraiment bizarre hein...,victim_support,NEG
+Fatimah-victime,Ne te préoccupe pas de ce que je mange ou pas stp !  en quoi ça te concerne que je mange du cochon ?,victim,NEU
+Leo68,tg coralie,bully_support,NEG
+Pierre47,Leo68 tu vois pas ta bite quand tu parle pisse excuse,victim_support,NEG
+Sandrine12,pk leo tu insulte elle ta fais quoi et tout les autres,conciliator,NEU
+Pierre47,vas y Sandrine encule le,victim_support,NEG
+paul83,sandrine tgl,bully_support,NEG
+Leo68,"j,ai pas fait expres",bully_support,NEU
+Pierre47,je crois en toi,victim_support,POS
+Coralie,pas fait exprès d'insulter paul83?,victim_support,NEU
+Leo68,tg pierre,bully_support,NEG
+julie,sinon fatimah on dirait elle a fermé sa gueule,bully,NEG
+Pierre47,non par contre le cochon c'est trop bon mais chacun fait comme il veut après,victim_support,POS
+Leo68,et fatimah ell e est repartie en algérie pour plus repondre,bully_support,NEG
+paul83,qui ma insulté ?,bully_support,NEU
+Fatimah-victime,justement ça en fait plus pour les autres MDR,victim,POS
+paul83,sa capte pas en algérie c normal hahaha,bully_support,NEG
+Leo68,bahahh,bully_support,POS
+julie,bahh,bully,POS
+Fatimah-victime,julie Tu ne t’arrête donc jamais  haha,victim,POS
+Leo68,c'est pas drole c'est nuuuuuul,bully_support,NEG
+julie,et toi julie t'a toujours pas fermé ta gueule,bully,NEG
+Pierre47,vous habitez dans des poubelles bande clodo Leo68 julie paul83,victim_support,NEG
+paul83,fatimah t genante,bully_support,NEG
+Pierre47,;(,victim_support,NEG
+paul83,pierre doucement ta pas trop mal a la gorge,bully_support,NEG
+julie,pierre comment tu peux la soutenir vraiment elle ne vaut rien,bully,NEG
+Sandrine12,paul calme toi va bz une meuf pour te calmer cest mieux,conciliator,NEG
+Fatimah-victime,"Bon  ça suffit le racisme de base la ! je suis née en France, j'ai la nationalité Française ! comme vous",victim,NEU
+Leo68,pierre arrete bouffer la teuch sale de fatima wshh nan mon reuf,bully_support,NEG
+Fatimah-victime,et meme si ce n»était pas le cas ce n'est pas une raison !,victim,NEU
+Pierre47,il baise des lapins le bougre de paul83,victim_support,NEG
+Leo68,lers francais ils ont pas du caca sur les doigts,bully_support,NEG
+julie,j'avoue,bully,NEU
+Coralie,tkt Fatimah-victime ils sont bêtes ils comprennent rien,victim_support,NEG
+paul83,pierre jvoit t cho sur moi il ya quoi fr,bully_support,NEG
+Pierre47,j'avoue mais ta daronne en a plein la bouche on est  passé a plusieurs,victim_support,NEG
+Fatimah-victime,Tu sais que l'héné ça sert pour coloré les cheveux aussi ? Ah non déso tu connais rien,victim,NEG
+julie,c'ets toi coralie qui est bete de la proteger,bully,NEG
+Leo68,coralie ? qui te cala meme ? t'es aussi invisible que la teub de pierre,bully_support,NEG
+Pierre47,je te pisse dessus julie ce que tu peut pas faire toi,victim_support,NEG
+Fatimah-victime,Merci Coralie :D,victim,POS
+kate93,parle mieux a julie deja,bully,NEG
+Leo68,ooh mon reuf t'es sexiste enft,bully_support,NEG
+julie,waw incroyable ton message pierre,bully,POS
+Pierre47,normale tu la vois frère ta peur elle est trop grosse,victim_support,NEG
+Coralie,julie parce que c intelligent d'insulter les gens ? Fatimah-victime de rien c normal ils on pas à dire ça,victim_support,POS
+paul83,fatimah retourne en algerie avec t parent les immigres,bully_support,NEG
+kate93,c'est pas intelligent mais elle merite que ca elle merite de mourrir carrement,bully,NEG
+Pierre47,je chie sur t'es ancetre julie sache tu descend surement des chiennes Leo68 a du t'ouvrir ton gros cul,victim_support,NEG
+kate93,cette grosse arabe de mort c marine le pen ici,bully,NEG
+Fatimah-victime,paul83 tous le monde as des ancêtre immigrés,victim,NEU
+paul83,tgl,bully_support,NEG
+Leo68,cette bombe a retardement,bully_support,NEG
+julie,je l'insulterai pas si elle ne voler pas les petits copains des autres,bully,NEG
+paul83,pierre doucement sur les chibre,bully_support,NEG
+Fatimah-victime,Tous ce que je fait pour toi c'est du vol de toute façon julie,victim,NEG
+julie,pierre waw de mieux en mieux,bully,NEG
+Leo68,fatimah tu comprend pas que tu dois creuver ?????  tu salie le sol fr avec tes doigts sale,bully_support,NEG
+Pierre47,dit ça a ta mère,victim_support,NEG
+paul83,elle est moche frr qui la gere elle je la touche meme pas avec un javelot,bully_support,NEG
+Leo68,pierre tg,bully_support,NEG
+kate93,leo t'as raison,bully,POS
+paul83,craseuse,bully_support,NEG
+Leo68,bahahha t'es trop drole mon reuf,bully_support,NEG
+kate93,elle restera celibataire toute sa vie la pauvre,bully,NEG
+Leo68,meskinaaaa,bully_support,NEG
+Pierre47,comme ta pute de soeur,victim_support,NEG
+paul83,pierre t'aime bien les gorge profonde a se que je voit,bully_support,NEG
+Fatimah-victime,Attention Julie je respire aussi ! je te vole ton O2 MDR,victim,NEG
+Pierre47,surtout celle de tamère,victim_support,NEG
+Coralie,Leo68 surveille un peu ce que tu dis...,victim_support,NEU
+paul83,ne compare pas une sale arabe a ma soeur pd suceur,bully_support,NEG
+Leo68,coralie l'invisible tg.,bully_support,NEG
+Fatimah-victime,kate93 ça y est tu ramène Le pen ta référente Facho ?,victim,NEG
+julie,t'a pas trouvé mieux fatimah vraiment,bully,NEG
+Leo68,fatimah les cochons ils parlent pas donc tg,bully_support,NEG
+Pierre47,obliger de mettre un sac poubelle sur sa sale geule tellement elle est scheum quand elle suce,victim_support,NEG
+kate93,elle a juste raison les arabes dans leur pays on veut pas de vous,bully,NEG
+julie,sincere ferme la leo a raison,bully,NEG
+Sandrine12,arreter les insultes envers ces origines qui n'ont rien avoir avec sa personnalité,conciliator,NEU
+paul83,pierre ntm sayer frr t cho sur moi,bully_support,NEG
+kate93,oue fatimah ferme ta gueule tu pollues l'air,bully,NEG
+Pierre47,elle me paye pour la soulever tellement ton daron il c'est rien faire Leo68,victim_support,NEG
+Fatimah-victime,Quelle est le raport ? tu vas dire cochon as chaque phrase,victim,NEU
+Leo68,fatimah et pierre azllez vous faire enculer par un gros cochon,bully_support,NEG
+Pierre47,miam,victim_support,POS
+Leo68,oui.,bully_support,POS
+julie,ouiii,bully,POS
+paul83,fatimah vas manger du halouf,bully_support,NEG
+Pierre47,j'aime quand tu parles mal,victim_support,POS
+kate93,c'est pour te faire comprendre que tu sers a rien dans la vie fatimah,bully,NEG
+Fatimah-victime,Sandrine12 tu as raison,victim,POS
+Pierre47,X-P,victim_support,NEU
+Pauline,juste pourquoi vous l'insulter su rce qu'elle mange ou autre,conciliator,NEU
+Leo68,elle est aussi utile que mes poils de uc fatimah,bully_support,NEG
+kate93,pauline ftg arrete de la defendre t'es une grosse' merde,bully,NEG
+Pierre47,ils sont pd c'est pour çca,victim_support,NEG
+Fatimah-victime,Qu'es ce que ça change as votre vie ? rien !,victim,NEU
+Leo68,si. on verra plus ta geule sale fatimata,bully_support,NEG
+kate93,fatimah t'es une grosse salope donc bouge et yaura plus de prbl,bully,NEG
+Coralie,bah si vous l'aimez pas ne pensez plus à elle,victim_support,NEU
+julie,c'est quand que tu pars de nos vies vraiment,bully,NEG
+kate93,oue sucide toi,bully,NEG
+Leo68,pierre il souleve un gros porc meur,bully_support,NEG
+Pierre47,vos daronne elles on toute le sida a force de sucé des pangolin,victim_support,NEG
+kate93,euh pierre t'es genant,bully,NEG
+Pierre47,Retourner vous chiez dessus en ephad,victim_support,NEG
+Leo68,fatima vu tes ancetres je pense que tu devrai copuler avec des porcs et mourir après,bully_support,NEG
+Leo68,pierre tg,bully_support,NEG
+Pierre47,ou en schimio selon préferance,victim_support,NEG
+Sandrine12,Kate t'es pas obliger d'insulter parceque tu te sens mal d'être moins belle,conciliator,NEG
+Fatimah-victime,Se suis importante pour toi ˘julie pour que tu te fixe autant sur moi ??,victim,NEU
+Pierre47,Je pisse sur tout vos ancetres bande de fdp,victim_support,NEG
+paul83,pierre tu parle toi ta la gorge tellement profonde mon frr a force de sucer tout ton quartier,bully_support,NEG
+Pauline,tu as grv raison Sandrine,conciliator,POS
+kate93,sandrine ta un prenom de pute me parle pas merci,bully,NEG
+paul83,nique t mort,bully_support,NEG
+Fatimah-victime,"Oui Sandrine12 a raison, vie ta vie et laisse moi tranquille",victim,NEU
+Fatimah-victime,arette d'etre jalouse un peu @julie,victim,NEU
+Leo68,nan t'es juste moche fatima c'est tellement rare de l'etre qu'on peut que te fixer ciao les porcs,bully_support,NEG
