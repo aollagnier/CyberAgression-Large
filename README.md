@@ -6,6 +6,8 @@ v 3.0: May 29 2024
 v 3.1: October 16 2024
 https://github.com/aollagnier/CyberAgression-Large
 
+CyberAgressionAdo-Large is free dataset: you can redistribute it and/or modify it under the terms of the Creative Commons Attribution Non Commercial 4.0 International. For source availability and license information see LICENCE
+
 ========================
 
 1) DESCRIPTION
